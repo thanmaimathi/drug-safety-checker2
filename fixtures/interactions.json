@@ -1,0 +1,66 @@
+[
+  {
+    "id": "interaction_001",
+    "ingredient1": "ibuprofen",
+    "ingredient2": "aspirin",
+    "severity": "high",
+    "description": "Combined use increases risk of gastrointestinal bleeding and ulcers",
+    "recommendation": "Avoid concurrent use. Use only one NSAID at a time."
+  },
+  {
+    "id": "interaction_002",
+    "ingredient1": "aspirin",
+    "ingredient2": "warfarin",
+    "severity": "critical",
+    "description": "Significantly increases bleeding risk due to anticoagulant effects",
+    "recommendation": "Contraindicated. Consult physician before use."
+  },
+  {
+    "id": "interaction_003",
+    "ingredient1": "ibuprofen",
+    "ingredient2": "warfarin",
+    "severity": "high",
+    "description": "NSAIDs can potentiate warfarin's anticoagulant effect",
+    "recommendation": "Avoid if possible. Monitor INR closely if concurrent use necessary."
+  },
+  {
+    "id": "interaction_004",
+    "ingredient1": "acetaminophen",
+    "ingredient2": "warfarin",
+    "severity": "moderate",
+    "description": "High doses of acetaminophen may increase warfarin effect",
+    "recommendation": "Use lowest effective dose. Monitor INR."
+  },
+  {
+    "id": "interaction_005",
+    "ingredient1": "metformin",
+    "ingredient2": "alcohol",
+    "severity": "high",
+    "description": "Increases risk of lactic acidosis",
+    "recommendation": "Limit alcohol consumption. Avoid binge drinking."
+  },
+  {
+    "id": "interaction_006",
+    "ingredient1": "lisinopril",
+    "ingredient2": "potassium",
+    "severity": "high",
+    "description": "ACE inhibitors can increase potassium levels dangerously",
+    "recommendation": "Monitor potassium levels. Avoid potassium supplements unless directed."
+  },
+  {
+    "id": "interaction_007",
+    "ingredient1": "atorvastatin",
+    "ingredient2": "grapefruit",
+    "severity": "moderate",
+    "description": "Grapefruit inhibits statin metabolism, increasing drug levels",
+    "recommendation": "Avoid grapefruit and grapefruit juice."
+  },
+  {
+    "id": "interaction_008",
+    "ingredient1": "sertraline",
+    "ingredient2": "tramadol",
+    "severity": "high",
+    "description": "Risk of serotonin syndrome when combined",
+    "recommendation": "Avoid concurrent use. Use alternative pain management."
+  }
+]

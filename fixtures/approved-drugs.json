@@ -1,0 +1,130 @@
+[
+  {
+    "id": "drug_001",
+    "name": "Amoxicillin",
+    "activeIngredients": ["amoxicillin"],
+    "strength": "500mg",
+    "manufacturer": "PharmaCorp",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde0f?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Capsule"
+  },
+  {
+    "id": "drug_002",
+    "name": "Ibuprofen",
+    "activeIngredients": ["ibuprofen"],
+    "strength": "200mg",
+    "manufacturer": "HealthPlus",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_003",
+    "name": "Acetaminophen",
+    "activeIngredients": ["acetaminophen"],
+    "strength": "500mg",
+    "manufacturer": "MediCare",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde0f?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_004",
+    "name": "Warfarin",
+    "activeIngredients": ["warfarin"],
+    "strength": "5mg",
+    "manufacturer": "CardioMed",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_005",
+    "name": "Aspirin",
+    "activeIngredients": ["aspirin"],
+    "strength": "325mg",
+    "manufacturer": "PainRelief Inc",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde0f?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_006",
+    "name": "Metformin",
+    "activeIngredients": ["metformin"],
+    "strength": "500mg",
+    "manufacturer": "DiabetesCare",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_007",
+    "name": "Lisinopril",
+    "activeIngredients": ["lisinopril"],
+    "strength": "10mg",
+    "manufacturer": "CardioMed",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde0f?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_008",
+    "name": "Atorvastatin",
+    "activeIngredients": ["atorvastatin"],
+    "strength": "20mg",
+    "manufacturer": "CholesterolCare",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_009",
+    "name": "Omeprazole",
+    "activeIngredients": ["omeprazole"],
+    "strength": "20mg",
+    "manufacturer": "GastroMed",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde0f?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Capsule"
+  },
+  {
+    "id": "drug_010",
+    "name": "Sertraline",
+    "activeIngredients": ["sertraline"],
+    "strength": "50mg",
+    "manufacturer": "MindCare",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_011",
+    "name": "Levothyroxine",
+    "activeIngredients": ["levothyroxine"],
+    "strength": "75mcg",
+    "manufacturer": "ThyroidCare",
+    "imageUrl": "https://images.unsplash.com/photo-1587854692152-cbe660dbde0f?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Tablet"
+  },
+  {
+    "id": "drug_012",
+    "name": "Albuterol",
+    "activeIngredients": ["albuterol"],
+    "strength": "90mcg",
+    "manufacturer": "RespiraryCare",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5f15714ae?w=400&h=400&fit=crop",
+    "approved": true,
+    "formulation": "Inhaler"
+  },
+  {
+   "id": "drug_013",
+   "name": "Lisinopril 10mg",
+   "ingredients": [
+    { "name": "Lisinopril", "strength": "10mg" }
+  ]
+
+  }
+]
